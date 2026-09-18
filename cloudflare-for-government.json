@@ -114,7 +114,7 @@
       "dateAvailable": "2026-08-06"
     },
     {
-      "serviceName": "Cloudflare for SaaS",
+      "serviceName": "Cloudflare for SaaS*",
       "serviceDescription": "Multi-tenant SaaS delivery platform enabling custom hostname management, certificates, and edge configuration for a provider's own customers.",
       "dateAvailable": "2026-08-06"
     },
